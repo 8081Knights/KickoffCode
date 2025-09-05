@@ -1,0 +1,11 @@
+//motor and velocity variable declaration
+
+@Override
+public void init() {
+//initialize hardware
+}
+
+@Override
+public void loop(){
+//run motors
+}
